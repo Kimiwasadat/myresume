@@ -1,0 +1,37 @@
+#aboutme{
+
+}
+#experience{
+
+}
+#resume{
+
+}
+#contact{
+
+}
+.navbar-nav {
+    width: 100%;
+    justify-content: space-between;
+}
+.nav-item {
+    flex-grow: 1;
+    text-align: center;
+}
+.nav-link {
+    width: 100%;
+}
+.nav-link:hover{
+    background-color: white;
+   
+}
+.avatar-image {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:10%;
+    border-radius:50%;
+}
+.h1text{
+    
+}
